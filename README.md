@@ -5,6 +5,8 @@ Recommending strategies for outreach team using messy real life university data.
  Student Outreach Data DashboardsAuthor: Daniella Shalom**
  
 Date: December 19, 2025
+
+
 **Introduction:**
  
  During my Excellerate internship, I worked with real call data from university student outreach programs. The goal was to clean the messy data and build 3 dashboards in Looker Studio to answer key questions:  How active were our campaigns?  
