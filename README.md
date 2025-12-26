@@ -164,7 +164,7 @@ This project shows how **data drives decisions**. Open to feedback!
 
 This file includes the link to the full presentation showing the steps taken in this project.
 
-👉 [Steps to be taken next View Presentation 📄](files/Analysis%20Presentation.pptx)
+👉 [Steps to be taken next View Presentation 📄](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FProsellaAnalyst%2FEXCELLERATE-OUTREACH-ANALYSIS%2Frefs%2Fheads%2Fmain%2FAnalysis%2520Presentation.pptx&wdOrigin=BROWSELINK)
 
 
 You can open this in your browser to view details on data cleaning, logic flow, and recommended next steps.
