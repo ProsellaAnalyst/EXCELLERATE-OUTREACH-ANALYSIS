@@ -159,7 +159,18 @@ I validated all key metrics with PostgreSQL queries — everything matched **100
 
 This project shows how **data drives decisions**. Open to feedback!  
 (Feel free to add LinkedIn or contact info.)
+
+# Project Presentation
+
+This file includes the link to the full presentation showing the steps taken in this project.
+
+👉 [Steps to be taken next (Beautiful Presentation)](https://1drv.ms/p/c/2c632fbbf5cf5f42/IQAt38nJY9ZJRK3zMBqSYLuRAUk65siQ7In-PbD4mRHUG3g?e=9grT0B)
+
+You can open this in your browser to view details on data cleaning, logic flow, and recommended next steps.
 ```
+
+
+
 
 ---
 
