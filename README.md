@@ -164,7 +164,7 @@ This project shows how **data drives decisions**. Open to feedback!
 
 This file includes the link to the full presentation showing the steps taken in this project.
 
-👉 [Steps to be taken next (Beautiful Presentation)](https://1drv.ms/p/c/2c632fbbf5cf5f42/IQAt38nJY9ZJRK3zMBqSYLuRAUk65siQ7In-PbD4mRHUG3g?e=9grT0B)
+👉 [Steps to be taken next (Beautiful Presentation)](files/AnalysisPresentation.pptx)
 
 You can open this in your browser to view details on data cleaning, logic flow, and recommended next steps.
 ```
