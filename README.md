@@ -1,7 +1,7 @@
-# EXCELLERATE-OUTREACH-ANALYSIS
+ EXCELLERATE-OUTREACH-ANALYSIS
 Recommending strategies for outreach team using messy real life university data.
 
- **## Excellerate Internship Project: 
+ ** Excellerate Internship Project: 
  Student Outreach Data DashboardsAuthor: Daniella Shalom**
  
 Date: December 19, 2025
